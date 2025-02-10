@@ -26,11 +26,13 @@ public class Strings {
 		
 		System.out.println("concatenate  of a string=" + a+ "" +b);
 		
-		System.out.println("Contains=" +c.contains("Systems"));
+		int count = 0;
+		
+		System.out.println("Contains=" +c.contains("s")+""+ count++);
 		
 		char[] ab = a.toCharArray();
 		for(int i=0; i<ab.length; i++) {
-			System.out.print(ab[i]);
+			System.out.println(ab[i]);
 		}
 		
 		int j=0;

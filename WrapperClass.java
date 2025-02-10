@@ -17,9 +17,9 @@ public class WrapperClass {
 		
 		int y = Integer.parseInt(str);
 		
-		System.out.println(y);
-		
-		System.out.println(i1);
+//		System.out.println(y);
+//		
+//		System.out.println(i1);
 
 		System.out.println(l);
 		
